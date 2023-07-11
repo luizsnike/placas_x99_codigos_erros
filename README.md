@@ -1,9 +1,10 @@
-## Atenção:
-# Este é um documento encontrado na internet que tem os provaveis problemas de erros das Placas X99
-# se você não sabe o que é isso pesquise antes de qualquer coisa.
-# não me responsabilizo por nada, é um documento encontrado e traduzido automaticamente para ajudar a resolver problemas nessas placas.
-# se for usar use com cuidado, sabedoria e conciência que não é a verdade absoluta, pode haver casos diferentes dos descritos aqui de acordo com fabricantes diferentes.
+# Atenção:
+## Este é um documento encontrado na internet que tem os provaveis problemas de erros das Placas X99
+## se você não sabe o que é isso pesquise antes de qualquer coisa.
+## não me responsabilizo por nada, é um documento encontrado e traduzido automaticamente para ajudar a resolver problemas nessas placas.
+## se for usar use com cuidado, sabedoria e conciência que não é a verdade absoluta, pode haver casos diferentes dos descritos aqui de acordo com fabricantes diferentes.
 
+# Dados traduzidos
 --------
 Código da placa de diagnóstico da placa-mãe Daquan
 Todos os códigos da placa de diagnóstico da placa-mãe
